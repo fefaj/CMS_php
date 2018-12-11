@@ -62,9 +62,7 @@
                     <li class="active">
                         <a href="blank-page.html"><i class="fa fa-fw fa-file"></i> Comments</a>
                     </li>
-                    <li>
-                        <a href="index-rtl.html"><i class="fa fa-fw fa-dashboard"></i>Users</a>
-                    </li>
+                    
                     <li>
                         <a href="javascript:;" data-toggle="collapse" data-target="#post_dropdown"><i class="fa fa-fw fa-arrows-v"></i> Users <i class="fa fa-fw fa-caret-down"></i></a>
                         <ul id="post_dropdown" class="collapse">
